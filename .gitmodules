@@ -1,0 +1,4 @@
+[submodule "maint/maint-67"]
+	path = third-party/icu
+	url = git@github.com:unicode-org/icu.git
+	branch = maint/maint-67
